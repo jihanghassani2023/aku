@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870848710204",
+    "project_id": "tesss-4dc09",
+    "storage_bucket": "tesss-4dc09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870848710204:android:104f2ef794bf96a8f96539",
+        "android_client_info": {
+          "package_name": "com.example.jihan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFR8qrxrVXw2EqAeM6UUPr35moxtXXPNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
